@@ -1,0 +1,5 @@
+﻿  TP_banque.cpp
+c:\users\istreich\source\repos\d02-ete 2019\tp_banque\tp_banque.cpp(177): warning C4101: 'chaine': unreferenced local variable
+c:\users\istreich\source\repos\d02-ete 2019\tp_banque\tp_banque.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\istreich\source\repos\d02-ete 2019\tp_banque\tp_banque.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  TP_banque.vcxproj -> C:\Users\istreich\source\repos\D02-Ete 2019\Debug\TP_banque.exe
